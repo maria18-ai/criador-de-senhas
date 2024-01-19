@@ -46,3 +46,6 @@ Após clonar o repositório, para executar a aplicação em sua máquina, basta 
 ```
 https://maria18-ai.github.io/criador-de-senhas/
 ```
+
+
+Feito com ❤ por Maria.
